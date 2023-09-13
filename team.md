@@ -2,4 +2,4 @@
 # Nicholas Robishaw
 # Sergio Rabadan
 
-My name is Nicholas Robishaw I am a senior at Nau studying Computer Science.
+My name is Nicholas Robishaw I am a senior at Nau studying Computer Science. attempt 2
